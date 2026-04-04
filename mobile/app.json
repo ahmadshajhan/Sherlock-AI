@@ -43,7 +43,8 @@
         {
           "iCloudContainerEnvironment": "Production"
         }
-      ]
+      ],
+      "expo-font"
     ],
     "extra": {
       "apiUrl": "http://187.127.133.27:8000",
